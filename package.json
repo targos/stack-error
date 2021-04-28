@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/targos/stack-error/issues"
   },
-  "homepage": "https://github.com/targos/stack-error#readme"
+  "homepage": "https://github.com/targos/stack-error#readme",
+  "devDependencies": {
+    "lorem-ipsum": "^2.0.3"
+  }
 }
