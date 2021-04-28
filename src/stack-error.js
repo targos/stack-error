@@ -16,9 +16,9 @@ export default class StackError extends Error {
               const func = funcs[0];
               func(funcs.slice(1));
             } else {
-              throw new Error("↓");
+              throw new Error('↓');
             }
-          }
+          },
         }[word];
       });
 
