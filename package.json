@@ -1,0 +1,24 @@
+{
+  "name": "stack-error",
+  "version": "1.0.0",
+  "description": "Made for fun. Please don't use this :)",
+  "type": "module",
+  "exports": {
+    ".": "./src/stack-error.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/targos/stack-error.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/targos/stack-error/issues"
+  },
+  "homepage": "https://github.com/targos/stack-error#readme"
+}
